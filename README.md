@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mbofos01
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in Software Engineering and Machine Learning
 - 📫 How to reach me mbofos@outlook.com
 
 <!---
