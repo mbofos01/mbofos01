@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mbofos01
-- 👀 I’m interested in Software Engineering and Machine Learning
-- 📫 How to reach me mbofos@outlook.com
+## Hello World
 
-<!---
-mbofos01/mbofos01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- My name is @mbofos01 and I studied Computer Science in University of Cyprus.
+- You can reach me through mbofos@outlook.com
+- I work as a Full-Stack Software Engineer at CognitiveUX with a focus on Research
+- My main interests are Machine Learning, System’s Programming, Software Engineering and UI/UX
+- Some of my favorite tools are Docker, VS code and DBeaver
