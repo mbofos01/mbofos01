@@ -6,7 +6,7 @@
 - My main interests are Machine Learning, System’s Programming, Software Engineering and UI/UX
 - Some of my favorite tools are Docker, VS code and DBeaver
 
---- | ---
-![](https://github-readme-stats.vercel.app/api?username=mbofos01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mbofos01)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-readme-stats.vercel.app/api?username=mbofos01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mbofos01)]
 
 
