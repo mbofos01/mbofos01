@@ -7,10 +7,11 @@
 - Some of my favorite tools are Docker, VS code and DBeaver
 
 
-<br>
+<!-- <br>
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mbofos01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"  />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbofos01" />
 </p>
 
+ -->
