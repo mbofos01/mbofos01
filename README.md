@@ -10,23 +10,23 @@
 <br>
 <br>
 <p align="center">
-<img  alt="Java" width="30px" style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img  alt="Django" width="30px" style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img  alt="Python" width="30px" style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img  alt="Postgres" width="30px" style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img  alt="Tensorflow" width="30px" style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img  alt="Pandas" width="30px" style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img  alt="Jupyter" width="30px" style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-<img  alt="Git" width="30px" style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img  alt="Linux" width="30px" style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img  alt="Bootstrap" width="30px" style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-<img  alt="HTML" width="30px" style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img  alt="CSS" width="30px" style="padding-right:10px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img  alt="JavaScript" width="30px" style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img  alt="C++" width="30px" style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img  alt="C" width="30px" style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img  alt="Bash" width="30px" style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img  alt="Docker" width="30px" style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img  alt="Java" width="50px"  style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img  alt="Django" width="50px"  style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<img  alt="Python" width="50px"  style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img  alt="Postgres" width="50px"  style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img  alt="Tensorflow" width="50px"  style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img  alt="Pandas" width="50px"  style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img  alt="Jupyter" width="50px"  style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+<img  alt="Git" width="50px"  style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img  alt="Linux" width="50px"  style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img  alt="Bootstrap" width="50px"  style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+<img  alt="HTML" width="50px"  style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img  alt="CSS" width="50px"  style="padding-right:10px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img  alt="JavaScript" width="50px"  style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img  alt="C++" width="50px"  style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img  alt="C" width="50px"  style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img  alt="Bash" width="50px"  style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img  alt="Docker" width="50px"  style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </p>
 
 <div align="center">
