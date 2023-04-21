@@ -41,8 +41,8 @@
 
 <div align="center">
 
-[![mbofos01 GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mbofos01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=mbofos01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight#gh-dark-mode-only)
-[![mbofos01 GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mbofos01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=buefy#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=mbofos01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=buefy#gh-light-mode-only)
 
-
+[![mbofos01 GitHub stats-Dark](https://github-readme-stats-9v7n.vercel.app/api?username=mbofos01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight#gh-dark-mode-only)](https://github-readme-stats-9v7n.vercel.app/api?username=mbofos01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight#gh-dark-mode-only)
+[![mbofos01 GitHub stats-Light](https://github-readme-stats-9v7n.vercel.app/api?username=mbofos01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=buefy#gh-light-mode-only)](https://github-readme-stats-9v7n.vercel.app/api?username=mbofos01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=buefy#gh-light-mode-only)
+  
 </div> 
