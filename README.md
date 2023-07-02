@@ -7,6 +7,7 @@
 - I work as a Full-Stack Software Engineer at CognitiveUX and University of Cyprus with a focus on Research
 - My main interests are Machine Learning, System’s Programming, Software Engineering and UI/UX
 - Some of my favorite tools are Docker, VS code and DBeaver
+- You can find my Currucilum Vitae <a href="https://mbofos01.github.io/cv.html" >here</a>
 
 <br>
 
