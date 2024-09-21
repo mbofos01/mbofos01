@@ -2,15 +2,14 @@
 
 ### About Me
 
-- My name is Michalis Bofos and I studied Computer Science in <a href="https://www.cs.ucy.ac.cy/?lang=en" >University of Cyprus</a> 🎓.
+- My name is Michalis Bofos and I studied Computer Science (BSc) at <a href="https://www.cs.ucy.ac.cy/?lang=en" >University of Cyprus</a> and Artificial Intelligence (MSc) at <a href="https://github.com/UtrechtUniversity">Utrecht University</a>🎓.
 - You can reach me through mbofos@outlook.com
-- My main interests are Machine Learning, System’s Programming, Software Engineering and UI/UX
-- Some of my favorite tools are Docker, VS code and DBeaver
+- My main interests include Artificial Intelligence, Full-Stack Development, DevOps and UI/UX
 - You can find my Currucilum Vitae <a href="https://mbofos01.github.io/cv.html" >here</a>
 
 <br>
 
-### Languages and Tools
+### Languages/Frameworks and Tools
 
 <br>
 
@@ -28,15 +27,18 @@
 <img  alt="HTML" width="40px"    style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img  alt="CSS" width="40px"    style="padding-right:10px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img  alt="JavaScript" width="40px"    style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img  alt="ThreeJS" width="40px"    style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" />
 <img  alt="C++" width="40px"    style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img  alt="C#" width="40px"    style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img  alt="C" width="40px"    style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img  alt="Bash" width="40px"    style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img  alt="Docker" width="40px"    style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img  alt="RabbitMQ" width="35px"    style="padding-right:20px; padding-left:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" />
 </p>
 
 <br>
 
-### Statistics
+### GitHub Statistics
 <br>
 
 <div align="center">
