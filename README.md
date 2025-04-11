@@ -5,7 +5,7 @@
 - My name is Michalis Bofos and I studied Computer Science (BSc) at <a href="https://www.cs.ucy.ac.cy/?lang=en" >University of Cyprus</a> and Artificial Intelligence (MSc) at <a href="https://github.com/UtrechtUniversity">Utrecht University</a>🎓.
 - You can reach me through mbofos@outlook.com
 - My main interests include Artificial Intelligence, Full-Stack Development, DevOps and UI/UX
-- You can find my Currucilum Vitae <a href="https://mbofos01.github.io/cv.html" >here</a>
+- You can find my Currucilum Vitae <a href="https://mbofos01.github.io" >here</a>
 
 <be>
 
