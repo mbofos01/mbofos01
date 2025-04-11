@@ -7,7 +7,13 @@
 - My main interests include Artificial Intelligence, Full-Stack Development, DevOps and UI/UX
 - You can find my Currucilum Vitae <a href="https://mbofos01.github.io/cv.html" >here</a>
 
-<br>
+<be>
+
+### Online Projects:
+
+- <a href="https://euroleague-quiz.vercel.app">Euroleague Player Quiz</a>
+- <a href="https://mbofos01.github.io/Weather-Forecast-Site/">Weather Forecast Site</a>
+
 
 ### Languages/Frameworks and Tools
 
