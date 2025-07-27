@@ -59,15 +59,19 @@ Hi! I’m **Michalis Bofos** — a passionate developer with a strong academic b
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats: Dark Mode -->
+<!-- dark mode only -->
   <table><tr><td>
   <img src="https://github-readme-stats-9v7n.vercel.app/api?username=mbofos01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight#gh-dark-mode-only" />
   </td>
+  <!-- gh-dark-mode-only -->
+
   
-  <!-- GitHub Stats: Light Mode -->
+<!-- light mode only -->
   <td>
   <img src="https://github-readme-stats-9v7n.vercel.app/api?username=mbofos01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=buefy#gh-light-mode-only" />
   </td>
+  <!-- gh-light-mode-only -->
+
   
   <!-- StackOverflow Card -->
   <td>
