@@ -12,6 +12,7 @@
 ### Online Projects:
 
 - <a href="https://euroleague-quiz.vercel.app">Euroleague Player Quiz</a>
+- <a href="https://spotify-broadcast-frontend.vercel.app">Current Listening App for Spotify</a>
 - <a href="https://mbofos01.github.io/Weather-Forecast-Site/">Weather Forecast Site</a>
 
 
