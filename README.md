@@ -59,21 +59,8 @@ Hi! I’m **Michalis Bofos** — a passionate developer with a strong academic b
 ### 📊 GitHub Stats
 
 <div align="center">
-<!-- dark mode only -->
-  <table><tr><td>
-  <!-- <img src="https://github-readme-stats-9v7n.vercel.app/api?username=mbofos01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight#gh-dark-mode-only" />
-  </td> -->
-  <!-- gh-dark-mode-only -->
-  
-<!-- light mode only -->
-  <td>
-  <img src="https://github-readme-stats-9v7n.vercel.app/api?username=mbofos01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=buefy#gh-light-mode-only" />
-  </td>
-  <!-- gh-light-mode-only -->
 
-  
-  <!-- StackOverflow Card -->
-  <td>
-  <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=17790231" alt="stackoverflow card" />
-  </td></tr></table>
+[![mbofos01 GitHub stats-Dark](https://github-readme-stats-9v7n.vercel.app/api?username=mbofos01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight#gh-dark-mode-only)](https://github-readme-stats-9v7n.vercel.app/api?username=mbofos01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight#gh-dark-mode-only)
+[![mbofos01 GitHub stats-Light](https://github-readme-stats-9v7n.vercel.app/api?username=mbofos01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=buefy#gh-light-mode-only)](https://github-readme-stats-9v7n.vercel.app/api?username=mbofos01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=buefy#gh-light-mode-only)
+
 </div>
