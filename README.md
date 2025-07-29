@@ -26,6 +26,7 @@ Hi! I’m **Michail Panagiotis Bofos** — but you can call me Michalis. I’m a
 ---
 
 ### 🛠️ Languages, Frameworks & Tools
+<!-- details can be found on: https://github.com/devicons/devicon/tree/v2.17.0/icons -->
 
 <p align="center">
   <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
