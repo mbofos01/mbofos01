@@ -1,7 +1,7 @@
 ## 👋 Hello World!
 
 [![Vibe with me](https://img.shields.io/badge/Vibe%20with%20me-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify-broadcast-frontend.vercel.app/)
-[![Connect](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/YOUR_USERNAME/](https://www.linkedin.com/in/michail-panagiotis-bofos/)](https://www.linkedin.com/in/michail-panagiotis-bofos/))
+[![Connect](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michail-panagiotis-bofos/)
 [![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17790231/mbofos01)
 [![View CV](https://img.shields.io/badge/View%20CV-FF5733?style=for-the-badge&logo=readthedocs&logoColor=white)](https://mbofos01.github.io/)
 
