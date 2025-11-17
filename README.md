@@ -20,6 +20,9 @@
   <a href="https://mbofos01.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/View%20my%20CV-FF5733?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View CV"/>
   </a>
+  <a href="https://huggingface.co/mbofos01" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FB982F?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
+  </a>
 </p>
 
 
