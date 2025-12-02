@@ -1,10 +1,5 @@
 ## 👋 Hello World!
 
-
-🎄 Currently participating in [Advent of Code 2025](https://github.com/mbofos01/advent-of-code-2025)!
-
-🧩 Check out my VS Code extension: [Wharfmap](https://marketplace.visualstudio.com/items?itemName=mbofos01.wharfmap-extension)
-
 <!--
 [![Vibe with me](https://img.shields.io/badge/Vibe%20with%20me-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify-broadcast-frontend.vercel.app/)
 [![Connect](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michail-panagiotis-bofos/)
@@ -30,15 +25,15 @@
   </a>
 </p>
 
-
-
-
 ### 👨‍💻 About Me
 
 Hi! I’m **Michail Panagiotis Bofos** — but you can call me Michalis. I’m a passionate developer with a strong academic background and a keen interest in Artificial Intelligence and software development.
 
-🎓 I hold a **BSc in Computer Science** from the [University of Cyprus](https://www.cs.ucy.ac.cy/?lang=en) and an **MSc in Artificial Intelligence** from [Utrecht University](https://www.uu.nl/en/masters/artificial-intelligence).  
+
+🎓 I hold a **BSc in Computer Science** from the [**University of Cyprus**](https://www.cs.ucy.ac.cy/?lang=en) and an **MSc in Artificial Intelligence** from [**Utrecht University**](https://www.uu.nl/en/masters/artificial-intelligence).  
 📫 You can reach me at **mbofos@outlook.com**  
+🎄 Currently participating in [**Advent of Code 2025**](https://github.com/mbofos01/advent-of-code-2025)!
+
 🧠 My main interests include:  
 - Artificial Intelligence & Machine Learning  
 - Computer Vision
@@ -55,6 +50,7 @@ Hi! I’m **Michail Panagiotis Bofos** — but you can call me Michalis. I’m a
 - 🏀 [EuroLeague Player Quiz](https://euroleague-quiz.vercel.app)  
 - 🎧 [Spotify Listening Status App](https://spotify-broadcast-frontend.vercel.app)  
 - 🌤️ [Weather Forecast Web App](https://mbofos01.github.io/Weather-Forecast-Site/)
+- 🧩 [Wharfmap - Virtual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=mbofos01.wharfmap-extension)
 
 ---
 
