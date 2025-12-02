@@ -1,6 +1,9 @@
 ## 👋 Hello World!
 
+
 🎄 Currently participating in [Advent of Code 2025](https://github.com/mbofos01/advent-of-code-2025)!
+
+🧩 Check out my VS Code extension: [Wharfmap](https://marketplace.visualstudio.com/items?itemName=mbofos01.wharfmap-extension)
 
 <!--
 [![Vibe with me](https://img.shields.io/badge/Vibe%20with%20me-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify-broadcast-frontend.vercel.app/)
