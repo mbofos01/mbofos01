@@ -1,5 +1,7 @@
 ## 👋 Hello World!
 
+🎄 Currently participating in [Advent of Code 2025](https://github.com/mbofos01/advent-of-code-2025)!
+
 <!--
 [![Vibe with me](https://img.shields.io/badge/Vibe%20with%20me-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify-broadcast-frontend.vercel.app/)
 [![Connect](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michail-panagiotis-bofos/)
@@ -102,10 +104,8 @@ Hi! I’m **Michail Panagiotis Bofos** — but you can call me Michalis. I’m a
 [![mbofos01 GitHub stats-Dark](https://github-readme-stats-9v7n.vercel.app/api?username=mbofos01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight#gh-dark-mode-only)](https://github-readme-stats-9v7n.vercel.app/api?username=mbofos01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight#gh-dark-mode-only)
 [![mbofos01 GitHub stats-Light](https://github-readme-stats-9v7n.vercel.app/api?username=mbofos01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=buefy#gh-light-mode-only)](https://github-readme-stats-9v7n.vercel.app/api?username=mbofos01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=buefy#gh-light-mode-only)
 
-[![mbofos01 GitHub Langs stats-Dark](https://github-readme-stats-9v7n.vercel.app/api/top-langs?username=mbofos01&hide_progress=true&hide_border=true&theme=tokyonight#gh-dark-mode-only)](https://github-readme-stats-9v7n.vercel.app/api/top-langs?username=mbofos01&hide_progress=true&hide_border=true&theme=tokyonight#gh-dark-mode-only)
-[![mbofos01 GitHub Langs stats-Light](https://github-readme-stats-9v7n.vercel.app/api/top-langs?username=mbofos01&hide_progress=true&hide_border=true&theme=buefy#gh-light-mode-only)](https://github-readme-stats-9v7n.vercel.app/api/top-langs?username=mbofos01&hide_progress=true&hide_border=true&theme=buefy#gh-light-mode-only)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbofos01&hide_progress=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=mbofos01&hide_progress=true)
 
 
 </div>
