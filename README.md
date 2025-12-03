@@ -45,6 +45,16 @@ Hi! I’m **Michail Panagiotis Bofos** - but you can call me Michalis. I’m a p
 
 ---
 
+### 📚 Favorite Reads
+
+- <a href="https://www.goodreads.com/book/show/21027.Love_s_Executioner_and_Other_Tales_of_Psychotherapy">Love's Executioner and Other Tales of Psychotherapy</a> - Irvin D. Yalom, MD
+- <a href="https://www.goodreads.com/book/show/21030.Lying_on_the_Couch">Lying on the Couch</a> - Irvin D. Yalom, MD
+- <a href="https://www.goodreads.com/book/show/11084145-steve-jobs">Steve Jobs</a> - Walter Isaacson
+- <a href="https://www.goodreads.com/book/show/27220736-shoe-dog">Shoe Dog</a> - Phil Knight
+- <a href="https://www.goodreads.com/book/show/18213403-no-place-to-hide">No Place to Hide</a> - Glenn Greenwald
+
+---
+
 ### 🌐 Featured Projects
 
 - 🏀 [EuroLeague Player Quiz](https://euroleague-quiz.vercel.app)  
