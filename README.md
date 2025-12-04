@@ -7,23 +7,15 @@
 [![View CV](https://img.shields.io/badge/View%20CV-FF5733?style=for-the-badge&logo=readthedocs&logoColor=white)](https://mbofos01.github.io/)
 -->
 
-<p align="center">
-  <a href="https://spotify-broadcast-frontend.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Listen%20Along-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Vibe with me"/>
-  </a>
-  <a href="https://www.linkedin.com/in/michail-panagiotis-bofos/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect"/>
-  </a>
-  <a href="https://stackoverflow.com/users/17790231/mbofos01" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
-  </a>
-  <a href="https://mbofos01.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20my%20CV-FF5733?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View CV"/>
-  </a>
-  <a href="https://huggingface.co/mbofos01" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FB982F?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
-  </a>
-</p>
+<div align="center">
+
+[![Listen Along](https://img.shields.io/badge/Listen%20Along-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify-broadcast-frontend.vercel.app/)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michail-panagiotis-bofos/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17790231/mbofos01)
+[![View my CV](https://img.shields.io/badge/View%20my%20CV-FF5733?style=for-the-badge&logo=readthedocs&logoColor=white)](https://mbofos01.github.io/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FB982F?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/mbofos01)
+
+</div>
 
 ### 👨‍💻 About Me
 
@@ -32,9 +24,9 @@ Hi! I’m **Michail Panagiotis Bofos** - but you can call me Michalis. I’m a p
 
 🎓 I hold a **BSc in Computer Science** from the [**University of Cyprus**](https://www.cs.ucy.ac.cy/?lang=en) and an **MSc in Artificial Intelligence** from [**Utrecht University**](https://www.uu.nl/en/masters/artificial-intelligence).  
 📫 You can reach me at **mbofos@outlook.com**  
-🎄 Currently participating in [**Advent of Code 2025**](https://github.com/mbofos01/advent-of-code-2025)!
 
 🧠 My main interests include:  
+
 - Artificial Intelligence & Machine Learning  
 - Computer Vision
 - Full-Stack Development  
@@ -42,6 +34,12 @@ Hi! I’m **Michail Panagiotis Bofos** - but you can call me Michalis. I’m a p
 - UI/UX Design  
 
 📄 View my [Curriculum Vitae](https://mbofos01.github.io)
+
+---
+
+### 🚀 What I'm Up To
+
+🎄 Currently participating in [**Advent of Code 2025**](https://github.com/mbofos01/advent-of-code-2025)!
 
 ---
 
