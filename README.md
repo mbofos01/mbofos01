@@ -39,7 +39,8 @@ Hi! I’m **Michail Panagiotis Bofos** - but you can call me Michalis. I’m a p
 
 ### 🚀 What I'm Up To
 
-🎄 Currently participating in [**Advent of Code 2025**](https://github.com/mbofos01/advent-of-code-2025)!
+<!-- 🎄 Currently participating in [**Advent of Code 2025**](https://github.com/mbofos01/advent-of-code-2025)!-->
+Currently getting acquainted with PySpark!
 
 ---
 
