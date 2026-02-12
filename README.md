@@ -6,15 +6,16 @@
 [![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17790231/mbofos01)
 [![View CV](https://img.shields.io/badge/View%20CV-FF5733?style=for-the-badge&logo=readthedocs&logoColor=white)](https://mbofos01.github.io/posts/my-cv/)
 -->
+<!--[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17790231/mbofos01)-->
+
 
 <div align="center">
 
 [![Listen Along](https://img.shields.io/badge/Listen%20Along-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify-broadcast-frontend.vercel.app/)
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michail-panagiotis-bofos/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17790231/mbofos01)
+[![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-gray?style=for-the-badge&logo=github&logoColor=white)](https://mbofos01.github.io/)
 [![View my CV](https://img.shields.io/badge/View%20my%20CV-FF5733?style=for-the-badge&logo=readthedocs&logoColor=white)](https://mbofos01.github.io/assets/MichailPanagiotisBofos_CV_January.pdf)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FB982F?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/mbofos01)
-[![Visit my Website](https://img.shields.io/badge/Visit%20my%20Website-gray?style=for-the-badge&logo=github&logoColor=white)](https://mbofos01.github.io/)
 
 </div>
 
