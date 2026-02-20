@@ -62,7 +62,7 @@ Currently getting acquainted with PySpark!
 - 🎧 [Spotify Listening Status App](https://spotify-broadcast-frontend.vercel.app)  
 - 🌤️ [Weather Forecast Web App](https://mbofos01.github.io/Weather-Forecast-Site/)
 - 🧩 [Wharfmap - Virtual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=mbofos01.wharfmap-extension)
-
+- 🐛 [Debugger Decorator](https://pypi.org/project/debugger-decorator/)
 ---
 
 ### 🛠️ Languages, Frameworks & Tools
