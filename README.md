@@ -24,7 +24,7 @@
 Hi! I’m **Michail Panagiotis Bofos** - but you can call me Michalis. I’m a passionate developer with a strong academic background and a keen interest in Artificial Intelligence and software development.
 
 
-🎓 I hold a **BSc in Computer Science** from the [**University of Cyprus**](https://www.cs.ucy.ac.cy/?lang=en) and an **MSc in Artificial Intelligence** from [**Utrecht University**](https://www.uu.nl/en/masters/artificial-intelligence).  
+🎓 I hold a **BSc in Computer Science** from the [**University of Cyprus**](https://www.cs.ucy.ac.cy/?lang=en) and a **MSc in Artificial Intelligence** from [**Utrecht University**](https://www.uu.nl/en/masters/artificial-intelligence).  
 📫 You can reach me at **mbofos@outlook.com**  
 
 🧠 My main interests include:  
